@@ -7,7 +7,7 @@ Newscast helps news readers to find information faster by developing an open sou
 
 ## Sponsors
 
-Speechcatcher is gracefully funded by
+Newscast is gracefully funded by
 
 <a href="https://media-tech-lab.com">Media Tech Lab by Media Lab Bayern</a> (<a href="https://github.com/media-tech-lab">@media-tech-lab</a>)
 
